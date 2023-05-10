@@ -87,14 +87,6 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
-
-- https://github.com/h5p/h5p-moodle-plugin
-```bash
-git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
-cd mod/hvp
-git submodule update --init
-```
-
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
 git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
@@ -231,11 +223,6 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
-```
-
 ### ENROL
 
 - https://github.com/bobopinna/moodle-enrol_autoenrol
@@ -278,6 +265,20 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 
 ```bash
 git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.1.git theme/eguru
+```
+
+## REMOVED
+
+
+- https://github.com/h5p/h5p-moodle-plugin
+```bash
+git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
+cd mod/hvp
+git submodule update --init
+```
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 
 ## Git commands
