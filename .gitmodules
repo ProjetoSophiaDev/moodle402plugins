@@ -62,3 +62,11 @@
 	path = moodle/lib/editor/atto/plugins/justify
 	url = https://github.com/moodle-ead/atto_justify.git
 	branch = master
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = master
+[submodule "moodle/admin/tool/certificate"]
+	path = moodle/admin/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
+	branch = master
