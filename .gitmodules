@@ -162,3 +162,7 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = master
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru4.1.git
+	branch = main
