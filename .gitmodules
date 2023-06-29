@@ -166,3 +166,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru4.1.git
 	branch = main
+[submodule "moodle/blocks/openai_chat"]
+	path = moodle/blocks/openai_chat
+	url = https://github.com/Limekiller/moodle-block_openai_chat.git
+	branch = main
