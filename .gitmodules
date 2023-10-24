@@ -158,10 +158,6 @@
 	path = moodle/availability/condition/ipaddress
 	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
 	branch = master
-[submodule "moodle/local/sandbox"]
-	path = moodle/local/sandbox
-	url = https://github.com/moodleuulm/moodle-local_sandbox.git
-	branch = master
 [submodule "moodle/theme/eguru"]
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru4.1.git
