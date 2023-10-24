@@ -261,12 +261,15 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 
 ### Theme
 
-- https://github.com/ProjetoSophiaDev/eguru4
+- https://github.com/ProjetoSophiaDev/eguru4.1
 
 ```bash
 git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.1.git theme/eguru
 ```
-
+- https://github.com/ProjetoSophiaDev/academi
+```bash
+git submodule add -b main https://github.com/ProjetoSophiaDev/academi.git theme/academi
+```
 ## REMOVED
 
 
