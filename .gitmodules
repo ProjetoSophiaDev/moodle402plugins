@@ -170,3 +170,7 @@
 	path = moodle/blocks/openai_chat
 	url = https://github.com/Limekiller/moodle-block_openai_chat.git
 	branch = main
+[submodule "moodle/theme/academi"]
+	path = moodle/theme/academi
+	url = https://github.com/ProjetoSophiaDev/academi.git
+	branch = main
