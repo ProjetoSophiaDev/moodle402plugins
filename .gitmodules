@@ -170,3 +170,7 @@
 	path = moodle/theme/academi
 	url = https://github.com/ProjetoSophiaDev/academi.git
 	branch = main
+[submodule "moodle/local/sandbox"]
+	path = moodle/local/sandbox
+	url = https://github.com/moodleuulm/moodle-local_sandbox.git
+	branch = MOODLE_402_STABLE
