@@ -198,6 +198,10 @@ git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report
 ```bash
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
+- https://github.com/bdecentgmbh/moodle-availability_sectioncompleted
+```bash
+git submodule add -b main https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git availability/condition/sectioncompleted
+```
 
 - https://github.com/MFreakNL/moodle-availability_ipaddress
 ```bash
