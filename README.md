@@ -127,7 +127,7 @@ git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-block_
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
-git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+git submodule add -b MOODLE_42_STABLE https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
 - https://github.com/remotelearner/moodle-block_grade_me
@@ -236,28 +236,20 @@ git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.
 ```bash
 git submodule add -b MOODLE_402_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
-
-- https://github.com/cellule-tice/moodle-format_collapsibletopics
-```bash
-git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
-```
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b moodle42b https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
 - https://gitlab.com/drlikm/format_etask
 ```bash
-git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
 - https://github.com/moodleworkplace/moodle-format_wplist
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
 ```
-
-
 
 ### Theme
 
@@ -272,6 +264,10 @@ git submodule add -b main https://github.com/ProjetoSophiaDev/academi.git theme/
 ```
 ## REMOVED
 
+- https://github.com/cellule-tice/moodle-format_collapsibletopics
+```bash
+git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+```
 
 - https://github.com/h5p/h5p-moodle-plugin
 ```bash
