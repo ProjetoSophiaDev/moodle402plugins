@@ -178,3 +178,7 @@
 	path = moodle/blocks/sharing_cart
 	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
 	branch = MOODLE_42_STABLE
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_402_STABLE
