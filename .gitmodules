@@ -194,3 +194,7 @@
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
 	branch = master
+[submodule "moodle/availability/condition/sectioncompleted"]
+	path = moodle/availability/condition/sectioncompleted
+	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
+	branch = main
