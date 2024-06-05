@@ -198,3 +198,7 @@
 	path = moodle/availability/condition/sectioncompleted
 	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
 	branch = main
+[submodule "moodle/user/profile/field/brasilufmunicipio"]
+	path = moodle/user/profile/field/brasilufmunicipio
+	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
+	branch = main
