@@ -198,7 +198,3 @@
 	path = moodle/user/profile/field/brasilufmunicipio
 	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
 	branch = main
-[submodule "moodle/mod/scheduler"]
-	path = moodle/mod/scheduler
-	url = https://github.com/bostelm/moodle-mod_scheduler.git
-	branch = MOODLE_400_STABLE
