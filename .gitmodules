@@ -34,10 +34,6 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = master
-[submodule "moodle/mod/scheduler"]
-	path = moodle/mod/scheduler
-	url = https://github.com/bostelm/moodle-mod_scheduler.git
-	branch = master
 [submodule "moodle/lib/editor/atto/plugins/cloze"]
 	path = moodle/lib/editor/atto/plugins/cloze
 	url = https://github.com/dthies/moodle-atto_cloze.git
