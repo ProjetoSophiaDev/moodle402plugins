@@ -198,3 +198,7 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/mod/choicegroup"]
+	path = moodle/mod/choicegroup
+	url = https://github.com/ProjetoSophiaDev/moodle-mod_choicegroup.git
+	branch = main
