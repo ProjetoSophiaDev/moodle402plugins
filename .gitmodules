@@ -194,10 +194,6 @@
 	path = moodle/user/profile/field/brasilufmunicipio
 	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
 	branch = main
-[submodule "moodle/mod/choicegroup"]
-	path = moodle/mod/choicegroup
-	url = https://github.com/ProjetoSophiaDev/moodle-mod_choicegroup.git
-	branch = main
 [submodule "moodle/mod/scheduler"]
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
