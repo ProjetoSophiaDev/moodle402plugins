@@ -46,10 +46,6 @@
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
 	branch = master
-[submodule "moodle/admin/tool/certificate"]
-	path = moodle/admin/tool/certificate
-	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
-	branch = master
 [submodule "moodle/blocks/xp"]
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
