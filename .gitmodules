@@ -146,10 +146,6 @@
 	path = moodle/availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
 	branch = main
-[submodule "moodle/mod/subcourse"]
-	path = moodle/mod/subcourse
-	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
-	branch = MOODLE_402_STABLE
 [submodule "moodle/blocks/sharing_cart"]
 	path = moodle/blocks/sharing_cart
 	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
