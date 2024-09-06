@@ -85,11 +85,11 @@ git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_su
 ```
 - https://github.com/moodleworkplace/moodle-mod_coursecertificate
 ```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
-git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+git submodule add -b MOODLE_400_STABLE https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
 
 ### ATTO
@@ -224,7 +224,7 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 
 ### ENROL
