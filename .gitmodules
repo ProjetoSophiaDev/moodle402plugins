@@ -198,3 +198,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_402_STABLE
+[submodule "moodle/mod/scheduler"]
+	path = moodle/mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = MOODLE_400_STABLE
